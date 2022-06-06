@@ -75,7 +75,7 @@
 			"path": "./lang/ja.json"
 		}
 	],
-	"system": ["dnd5e"],
+	"system": ["cyphersystem"],
     "esmodules": ["/lootsheetnpc5e.js"],
 	"styles": ["/libs/styles/tippy.min.css", "/libs/styles/rpg-awesome.min.css", "/styles/lootsheetNPC5e.css"],
 	"socket": true,
